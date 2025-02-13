@@ -1,1 +1,3 @@
 # Password-Manager
+
+A simple and visually appealing password manager built with Python and Tkinter, designed to securely generate and save passwords for multiple websites. This lightweight desktop application is perfect for managing your credentials efficiently. Features: Generate Random Passwords: Strong 12-character passwords with letters, numbers, and symbols. Clipboard Copy: Generated passwords are automatically copied to the clipboard for convenience. Save Passwords: Easily store credentials in a text file (passwords.txt). User-friendly Interface: Clean, modern UI with organized input fields and styled buttons. Python Tkinter (GUI framework) pyperclip (for clipboard functionality)
